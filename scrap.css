@@ -1,0 +1,60 @@
+#login{position: absolute;
+width: 100%;
+top: 0;
+left: 0;
+background-color:#4D8969;
+text-align:right;
+float:right;
+}
+#logout{float:right;
+}
+#public{
+}
+@font-face
+{
+font-family: ubu;
+src: url(u.ttf);
+}
+html, body {  margin:0;
+   padding:0;
+   height:100%;}
+   
+body{ 
+   padding:10px;
+}
+h1
+{position:absolute;
+text-align:left;
+font-family:ubu;
+text-shadow:  5px 5px 5px #006600;
+float:left;
+left: 20px;
+}
+#phr{ display: block;
+ height: 1px;
+    border: 0; 
+	border-top: 1px solid #ccc;
+    margin: 1em 0;
+	padding: 0; 
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#header {
+      background-color:#4D8969;
+   padding:10px;
+}
+#body {
+   padding:10px;
+   padding-bottom:80px;   /* Height of the footer */
+}
+#foot{ 
+ position:absolute;
+   bottom:0;
+   background-color:#4D8969;
+   text-align: center;
+   width: 100%;
+   height:80px;
+	
+}
