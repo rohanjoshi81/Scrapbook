@@ -6,3 +6,6 @@ Features :
 Microblog + PM functionality
 Full AJAX compatible
 Customizable Profiles
+
+
+Coded in php/MySQL/JQuery
